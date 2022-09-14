@@ -97,8 +97,9 @@ public class TesteJiuSimulator {
                         break;
                     }
                     case 3: {
-                        System.out.println("\n!#@$ tic pow!@#$ \n" +
-                                "O faixa preta lutou no seu ritmo e te ensinou diversas tecnicas de acordo com os seus erros durante a luta");
+                        System.out.println("\nUm faixa preta casca grossa chamou voce para lutar! It`s time!!" +
+                                "\n!#@$ tic pow!@#$ \n" +
+                                "O faixa preta lutou no seu ritmo e te ensinou diversas tecnicas de acordo com os seus erros durante a luta\n");
                         System.out.println("Faixa-preta: amanha voce sera melhor, padawan! \n");
                         treino = false;
                         horaDaLuta = false;
